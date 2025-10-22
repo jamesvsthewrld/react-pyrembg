@@ -1,0 +1,44 @@
+.app {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.dropzone {
+  border: 2px dashed #ccc;
+  border-radius: 10px;
+  padding: 40px;
+  margin: 20px 0;
+  cursor: pointer;
+  transition: border-color 0.3s;
+}
+
+.dropzone.active {
+  border-color: #007bff;
+}
+
+.image-container {
+  margin: 20px 0;
+}
+
+.image {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
