@@ -108,4 +108,4 @@ This typically starts the dev server on `http://localhost:5173` (Vite). The fron
 
 ## License
 
-This repository is provided as-is for demonstration purposes. Add a license file if you intend to publish it.
+This repository is provided as-is for demonstration purposes.
